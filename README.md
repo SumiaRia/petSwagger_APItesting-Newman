@@ -4,7 +4,7 @@
 
 
 
-##This is a sample Pet Store Server based on the [OpenAPI](https://petstore.swagger.io/) 3.0 specification where tested users for CRUD operations
+This is a sample Pet Store Server based on the [OpenAPI](https://petstore.swagger.io/) 3.0 specification where tested users for CRUD operations
 
 
 
