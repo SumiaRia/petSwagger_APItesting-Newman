@@ -31,4 +31,6 @@ Run newman and html reporter template
 ```
 
 
+## Screenshots
 
+![](https://github.com/SumiaRia/petSwagger_APItesting-Newman/blob/main/Screenshot%202023-02-19%20212945.jpg)
